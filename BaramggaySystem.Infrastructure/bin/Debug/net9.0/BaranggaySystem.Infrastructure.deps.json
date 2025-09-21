@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BaranggaySystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BaranggaySystem.Application": "1.0.0",
+          "BaranggaySystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BaranggaySystem.Infrastructure.dll": {}
+        }
+      },
+      "BaranggaySystem.Application/1.0.0": {
+        "dependencies": {
+          "BaranggaySystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BaranggaySystem.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BaranggaySystem.Domain/1.0.0": {
+        "runtime": {
+          "BaranggaySystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaranggaySystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaranggaySystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaranggaySystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Infrastructure.deps.json
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Infrastructure.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Infrastructure.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Application.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Domain.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Application.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\bin\Debug\net9.0\BaramggaySystem.Domain.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.AssemblyInfo.cs
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\Baramgga.4460FD04.Up2Date
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\refint\BaramggaySystem.Infrastructure.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\BaramggaySystem.Infrastructure.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Infrastructure\obj\Debug\net9.0\ref\BaramggaySystem.Infrastructure.dll

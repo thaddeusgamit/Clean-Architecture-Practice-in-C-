@@ -1,0 +1,15 @@
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\bin\Debug\net9.0\BaranggaySystem.Application.deps.json
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\bin\Debug\net9.0\BaranggaySystem.Application.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\bin\Debug\net9.0\BaranggaySystem.Application.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\bin\Debug\net9.0\BaranggaySystem.Domain.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\bin\Debug\net9.0\BaranggaySystem.Domain.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.csproj.AssemblyReference.cache
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.AssemblyInfoInputs.cache
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.AssemblyInfo.cs
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\Barangga.7199F04C.Up2Date
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\refint\BaranggaySystem.Application.dll
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\BaranggaySystem.Application.pdb
+C:\Users\TAGamit\Desktop\practices\projects\Solution1\BaramggaySystem.Application\obj\Debug\net9.0\ref\BaranggaySystem.Application.dll

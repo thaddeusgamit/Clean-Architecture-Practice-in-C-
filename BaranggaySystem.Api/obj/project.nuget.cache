@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HegFCxIH1Zo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BaranggaySystem\\BaranggaySystem.Api\\BaranggaySystem.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TAGamit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\TAGamit\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
