@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarangaySystem.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aed4200a17bbaa16c068ad9f4d9f271559746f21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2c7ad300ba48a6da027baaef975754e23716c95")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarangaySystem.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarangaySystem.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,7 @@ namespace BarangaySystem.Infrastructure.Persistance
         : base(options) { }
 
         public DbSet<Reports> Reports{ get; set; }
+        public DbSet<Positions> Positions{ get; set; }
 
     }
 }

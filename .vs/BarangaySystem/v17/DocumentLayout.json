@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD9FB3FF-FC47-44F9-8AD6-90EF483EFE78}|BarangaySystem.Api\\BarangaySystem.Api.csproj|c:\\users\\tagamit\\desktop\\practices\\projects\\baranggaysystem\\barangaysystem\\barangaysystem.api\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9FB3FF-FC47-44F9-8AD6-90EF483EFE78}|BarangaySystem.Api\\BarangaySystem.Api.csproj|solutionrelative:barangaysystem.api\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD9FB3FF-FC47-44F9-8AD6-90EF483EFE78}|BarangaySystem.Api\\BarangaySystem.Api.csproj|c:\\users\\tagamit\\desktop\\practices\\projects\\baranggaysystem\\barangaysystem\\barangaysystem.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9FB3FF-FC47-44F9-8AD6-90EF483EFE78}|BarangaySystem.Api\\BarangaySystem.Api.csproj|solutionrelative:barangaysystem.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121C098A-9D0B-428B-B41A-43DB9730F449}|BarangaySystem.Domain\\BarangaySystem.Domain.csproj|c:\\users\\tagamit\\desktop\\practices\\projects\\baranggaysystem\\barangaysystem\\barangaysystem.domain\\entities\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121C098A-9D0B-428B-B41A-43DB9730F449}|BarangaySystem.Domain\\BarangaySystem.Domain.csproj|solutionrelative:barangaysystem.domain\\entities\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D57F09F5-31D0-462C-BF88-B0137F684B0E}|BarangaySystem.Infrastructure\\BarangaySystem.Infrastructure.csproj|c:\\users\\tagamit\\desktop\\practices\\projects\\baranggaysystem\\barangaysystem\\barangaysystem.infrastructure\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D57F09F5-31D0-462C-BF88-B0137F684B0E}|BarangaySystem.Infrastructure\\BarangaySystem.Infrastructure.csproj|solutionrelative:barangaysystem.infrastructure\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9FB3FF-FC47-44F9-8AD6-90EF483EFE78}|BarangaySystem.Api\\BarangaySystem.Api.csproj|c:\\users\\tagamit\\desktop\\practices\\projects\\baranggaysystem\\barangaysystem\\barangaysystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD9FB3FF-FC47-44F9-8AD6-90EF483EFE78}|BarangaySystem.Api\\BarangaySystem.Api.csproj|solutionrelative:barangaysystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{121C098A-9D0B-428B-B41A-43DB9730F449}|BarangaySystem.Domain\\BarangaySystem.Domain.csproj|c:\\users\\tagamit\\desktop\\practices\\projects\\baranggaysystem\\barangaysystem\\barangaysystem.domain\\entities\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C098A-9D0B-428B-B41A-43DB9730F449}|BarangaySystem.Domain\\BarangaySystem.Domain.csproj|solutionrelative:barangaysystem.domain\\entities\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Infrastructure\\Persistance\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BarangaySystem.Infrastructure\\Persistance\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Infrastructure\\Persistance\\AppDbContext.cs",
-              "RelativeToolTip": "BarangaySystem.Infrastructure\\Persistance\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T07:05:25.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Reports.cs",
-              "DocumentMoniker": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Domain\\Entities\\Reports.cs",
-              "RelativeDocumentMoniker": "BarangaySystem.Domain\\Entities\\Reports.cs",
-              "ToolTip": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Domain\\Entities\\Reports.cs",
-              "RelativeToolTip": "BarangaySystem.Domain\\Entities\\Reports.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T06:50:37.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "BarangaySystem.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Api\\appsettings.json",
-              "RelativeToolTip": "BarangaySystem.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-27T06:34:04.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Api\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "BarangaySystem.Api\\Controllers\\ReportsController.cs",
               "ToolTip": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Api\\Controllers\\ReportsController.cs",
               "RelativeToolTip": "BarangaySystem.Api\\Controllers\\ReportsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEEAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T06:14:02.619Z",
+              "WhenOpened": "2025-09-29T07:56:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Api\\Controllers\\PositionsController.cs",
+              "RelativeDocumentMoniker": "BarangaySystem.Api\\Controllers\\PositionsController.cs",
+              "ToolTip": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Api\\Controllers\\PositionsController.cs",
+              "RelativeToolTip": "BarangaySystem.Api\\Controllers\\PositionsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:57:35.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Positions.cs",
+              "DocumentMoniker": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Domain\\Entities\\Positions.cs",
+              "RelativeDocumentMoniker": "BarangaySystem.Domain\\Entities\\Positions.cs",
+              "ToolTip": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Domain\\Entities\\Positions.cs",
+              "RelativeToolTip": "BarangaySystem.Domain\\Entities\\Positions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:37:08.143Z",
               "EditorCaption": ""
             }
           ]
