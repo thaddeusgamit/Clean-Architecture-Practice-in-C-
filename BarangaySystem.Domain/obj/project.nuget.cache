@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CPuXhyMbMMc=",
+  "dgSpecHash": "j8aJ4+CPl9Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TAGamit\\Desktop\\practices\\projects\\BaranggaySystem\\BarangaySystem\\BarangaySystem.Domain\\BarangaySystem.Domain.csproj",
+  "projectFilePath": "C:\\Users\\TAGamit\\Desktop\\Clean-Architecture-Practice-in-C-\\BarangaySystem.Domain\\BarangaySystem.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

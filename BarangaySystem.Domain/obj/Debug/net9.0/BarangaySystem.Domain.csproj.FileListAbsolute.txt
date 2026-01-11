@@ -10,3 +10,15 @@ C:\Users\TAGamit\Desktop\practices\projects\BaranggaySystem\BarangaySystem\Baran
 C:\Users\TAGamit\Desktop\practices\projects\BaranggaySystem\BarangaySystem\BarangaySystem.Domain\obj\Debug\net9.0\refint\BarangaySystem.Domain.dll
 C:\Users\TAGamit\Desktop\practices\projects\BaranggaySystem\BarangaySystem\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.pdb
 C:\Users\TAGamit\Desktop\practices\projects\BaranggaySystem\BarangaySystem\BarangaySystem.Domain\obj\Debug\net9.0\ref\BarangaySystem.Domain.dll
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\bin\Debug\net9.0\BarangaySystem.Domain.deps.json
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\bin\Debug\net9.0\BarangaySystem.Domain.dll
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\bin\Debug\net9.0\BarangaySystem.Domain.pdb
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.AssemblyInfoInputs.cache
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.AssemblyInfo.cs
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.sourcelink.json
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.dll
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\refint\BarangaySystem.Domain.dll
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\BarangaySystem.Domain.pdb
+C:\Users\TAGamit\Desktop\Clean-Architecture-Practice-in-C-\BarangaySystem.Domain\obj\Debug\net9.0\ref\BarangaySystem.Domain.dll
